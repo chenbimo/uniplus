@@ -1,0 +1,3 @@
+<script setup>
+onLaunch(() => {});
+</script>
